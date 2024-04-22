@@ -23,3 +23,13 @@ Matplotlib
 Numpy 
 
 ## 참고 : https://thebook.io/080324/0306/
+
+## GAN Model
+
+GAN
+
+DCGAN (Deep Convolutional GAN)
+
+Wassertein GAN (WGAN)
+
+Conditional GAN (CGAN)
